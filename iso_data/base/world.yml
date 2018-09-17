@@ -1,4 +1,7 @@
 ---
+- alpha_2_code: AA
+  alpha_3_code: AAA
+  type: country
 - alpha_2_code: AD
   alpha_3_code: AND
   numeric_code: '020'

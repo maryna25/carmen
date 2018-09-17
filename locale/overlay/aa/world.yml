@@ -1,0 +1,23 @@
+---
+aa:
+  world:
+    gp:
+      common_name: Guadeloupe
+      name: Guadeloupe
+      official_name: Guadeloupe
+    mq:
+      common_name: Martinique
+      name: Martinique
+      official_name: Martinique
+    gy:
+      common_name: Guyane
+      name: Guyane
+      official_name: Guyane
+    bl:
+      common_name: St Barthelemy
+      name: St Barthelemy
+      official_name: St Barthelemy
+    mf:
+      common_name: St Martin
+      name: St Martin
+      official_name: St Martin

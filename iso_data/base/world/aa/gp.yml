@@ -1,0 +1,7 @@
+---
+- code: '11'
+  type: district
+- code: '14'
+  type: district
+- code: GP
+  type: district

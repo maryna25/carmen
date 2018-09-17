@@ -1,0 +1,11 @@
+---
+en:
+  world:
+    aa:
+      gp:
+        '11':
+          name: Basse Terre
+        '14':
+          name: Grande Terre
+        gp:
+          name: Autres îles de guadeloupe

@@ -1,0 +1,14 @@
+---
+en:
+  world:
+    aa:
+      gp:
+        name: Guadeloupe
+      mq:
+        name: Martinique
+      gy:
+        name: Guyane
+      bl:
+        name: St Barthelemy
+      mf:
+        name: St Martin

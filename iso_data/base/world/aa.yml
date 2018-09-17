@@ -1,0 +1,11 @@
+---
+- code: GP
+  type: island
+- code: MQ
+  type: island
+- code: GY
+  type: island
+- code: BL
+  type: island
+- code: MF
+  type: island
